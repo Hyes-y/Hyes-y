@@ -4,23 +4,31 @@
 
 <h3 align="center">🌱 Skill Stack 🌱</h3>
 
-<img src="https://img.shields.io/badge/Python-FFAEBC?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Javascript-A0E7E5?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/HTML5-B4F8C8?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS3-FBE7C6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Django-FFAEBC?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Mysql-D3B5E5?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+<p align="center">
+<img src="https://img.shields.io/badge/Python-FFAEBC?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Javascript-A0E7E5?style=flat-square&logo=Javascript&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-B4F8C8?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-FBE7C6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Django-FFAEBC?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Mysql-D3B5E5?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
+</p>
 
-<p align="center" style="text-align:center">
+![Hyes-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4)](https://github.com/Hyes-y/github-readme-stats)
+
 <h3 align="center">✅ Plans for 2022 ✅</h3>
-
+<p align="center">
 ✔ 초록초록 커밋밭 가꾸기 <br/>
 ✔ 취뽀-! <br/>
+</p>
 
-<h3 align="center">🟠 Ongoing programs</h3>
-🔥 멋쟁이사자처럼x에이블리 익스턴십 1기 <br/>
-🔥 엘리스 AI 트랙 4기 <br/>
-                  </p>
+<h3 align="center">🟠 Ongoing programs 🟠</h3>
+
+<p align="center">
+🔥 멋쟁이사자처럼x에이블리 익스턴십 1기<br/>
+🔥 엘리스 AI 트랙 4기
+</p><br/>
+
 <!--
 **Hyes-y/Hyes-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
