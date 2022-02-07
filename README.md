@@ -28,8 +28,8 @@
 🔥 멋쟁이사자처럼x에이블리 익스턴십 1기<br/>
 🔥 엘리스 AI 트랙 4기
 </p><br/>
-
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs">
+<a href="https://github.com/Hyes-y/github-readme-stats">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs"></a>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gptjs7970">
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4">
 
