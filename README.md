@@ -31,7 +31,7 @@
 <a href="https://github.com/Hyes-y/github-readme-stats">
 <img align='left' style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs"></a>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gptjs7970"><br/>
-<img align='left' style="width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4">
+<img align='left' style="width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4">
 
 
 
