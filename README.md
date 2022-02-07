@@ -29,6 +29,8 @@
 🔥 엘리스 AI 트랙 4기
 </p><br/>
 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:FFC2C7,30:B6E5D8,60:FBE5C8,100:8FDDE7&height=300&section=footer)
+
 <!--
 **Hyes-y/Hyes-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
