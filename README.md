@@ -13,7 +13,8 @@
 <img src="https://img.shields.io/badge/Mysql-D3B5E5?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
 </p>
 
-![Hyes-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4)](https://github.com/Hyes-y/github-readme-stats)
+
+
 
 <h3 align="center">✅ Plans for 2022 ✅</h3>
 <p align="center">
@@ -27,6 +28,10 @@
 🔥 멋쟁이사자처럼x에이블리 익스턴십 1기<br/>
 🔥 엘리스 AI 트랙 4기
 </p><br/>
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gptjs7970">
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:FFC2C7,30:B6E5D8,60:FBE5C8,100:8FDDE7&height=300&section=footer)
 
@@ -43,4 +48,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Hyes-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4)](https://github.com/Hyes-y/github-readme-stats)
 -->
