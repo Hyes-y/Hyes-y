@@ -30,8 +30,9 @@
 </p><br/>
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gptjs7970">
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4">
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:FFC2C7,30:B6E5D8,60:FBE5C8,100:8FDDE7&height=300&section=footer)
 
