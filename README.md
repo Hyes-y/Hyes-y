@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/Mysql-D3B5E5?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
 </p>
 
-![Hyes-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4)](https://github.com/Hyes-y/github-readme-stats)
+![Hyes-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyes-y&layout=compact&langs_count=4)](https://github.com/Hyes-y/github-readme-stats)
 
 <h3 align="center">✅ Plans for 2022 ✅</h3>
 <p align="center">
