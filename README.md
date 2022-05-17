@@ -25,9 +25,15 @@
 <h3 align="center">🟠 Ongoing programs 🟠</h3>
 
 <p align="center">
-🔥 멋쟁이사자처럼x에이블리 익스턴십 1기<br/>
 🔥 엘리스 AI 트랙 4기
 </p><br/>
+
+<h3 align="center">🟢 Completed programs 🟢</h3>
+
+<p align="center">
+🔥 멋쟁이사자처럼x에이블리 익스턴십 1기<br/>
+</p><br/>
+
 <a href="https://github.com/Hyes-y/github-readme-stats">
 <img align='left' style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs"></a>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gptjs7970"><br/>
