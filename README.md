@@ -25,13 +25,14 @@
 <h3 align="center">🟠 Ongoing programs 🟠</h3>
 
 <p align="center">
-🔥 엘리스 AI 트랙 4기
+취업 준비 ⭐
 </p><br/>
 
 <h3 align="center">🟢 Completed programs 🟢</h3>
 
 <p align="center">
 🔥 멋쟁이사자처럼x에이블리 익스턴십 1기<br/>
+🔥 엘리스 AI 트랙 4기
 </p><br/>
 
 <a href="https://github.com/Hyes-y/github-readme-stats">
