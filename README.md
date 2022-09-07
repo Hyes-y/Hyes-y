@@ -25,7 +25,7 @@
 <h3 align="center">🟠 Ongoing programs 🟠</h3>
 
 <p align="center">
-취업 준비 ⭐
+⭐ 원티드 프리온보딩 백엔드 코스 4기
 </p><br/>
 
 <h3 align="center">🟢 Completed programs 🟢</h3>
