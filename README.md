@@ -5,12 +5,49 @@
 <h3 align="center">🌱 Skill Stack 🌱</h3>
 
 <p align="center">
+
+<table align="center">
+<tr>
+<td> 분야 </td>
+<td> skill </td>
+<tr>
+<td> Language </td>
+<td>
 <img src="https://img.shields.io/badge/Python-FFAEBC?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Javascript-A0E7E5?style=flat-square&logo=Javascript&logoColor=white"/></a> &nbsp;
+</td>
+</tr>
+
+<tr>
+<td> Web(Front-end)  </td>
+<td>
 <img src="https://img.shields.io/badge/HTML5-B4F8C8?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-FBE7C6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp;
+</td>
+</tr>
+
+<tr>
+<td> Frameworks(Back-end) </td>
+<td>
 <img src="https://img.shields.io/badge/Django-FFAEBC?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/DjangoRestFramework-A0E7E5?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp;
+<br/>
+<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> &nbsp;
+
+</td>
+</tr>
+
+<tr>
+<td> DB </td>
+<td>
 <img src="https://img.shields.io/badge/Mysql-D3B5E5?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp;
+</td>
+</tr>
+</table>
 </p>
 
 
