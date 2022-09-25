@@ -68,8 +68,9 @@
 <h3 align="center">🟢 Completed programs 🟢</h3>
 
 <p align="center">
-🔥 멋쟁이사자처럼x에이블리 익스턴십 1기<br/>
-🔥 엘리스 AI 트랙 4기
+🔥 멋쟁이사자처럼x에이블리 익스턴십 1기 <br/>
+🔥 엘리스 AI 트랙 4기 <br/>
+🔥 두 달만에 완성하는 Python 웹개발
 </p><br/>
 
 <a href="https://github.com/Hyes-y/github-readme-stats">
