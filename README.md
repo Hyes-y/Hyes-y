@@ -62,14 +62,15 @@
 <h3 align="center">🟠 Ongoing programs 🟠</h3>
 
 <p align="center">
-⭐ 원티드 프리온보딩 백엔드 코스 4기
+⭐ 취준 - !
 </p><br/>
 
 <h3 align="center">🟢 Completed programs 🟢</h3>
 
 <p align="center">
-🔥 멋쟁이사자처럼x에이블리 익스턴십 1기 <br/>
+🔥 원티드 프리온보딩 백엔드 코스 4기 <br/>
 🔥 엘리스 AI 트랙 4기 <br/>
+🔥 멋쟁이사자처럼x에이블리 익스턴십 1기 <br/>
 🔥 두 달만에 완성하는 Python 웹개발
 </p><br/>
 
