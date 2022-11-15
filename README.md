@@ -59,12 +59,6 @@
 ✔ 취뽀-! <br/>
 </p>
 
-<h3 align="center">🟠 Ongoing programs 🟠</h3>
-
-<p align="center">
-⭐ 취준 - !
-</p><br/>
-
 <h3 align="center">🟢 Completed programs 🟢</h3>
 
 <p align="center">
