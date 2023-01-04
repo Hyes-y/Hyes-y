@@ -51,13 +51,19 @@
 </p>
 
 
-
+<br/>
+<br/>
 
 <h3 align="center">✅ Plans for 2023 ✅</h3>
 <p align="center">
 ✔ 초록초록 커밋밭 가꾸기 <br/>
 ✔ 운영체제, 데이터베이스, 자료구조, 알고리즘 공부 <br/>
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 <a href="https://github.com/Hyes-y/github-readme-stats">
 <img align='left' style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=Hyes-y&theme=buefy&show_icons=true&hide=stars,issues,contribs"></a>
